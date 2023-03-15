@@ -1,0 +1,9 @@
+#@name 创建题目
+POST http://localhost:8080/api/v1/book
+Content-Type: application/json
+
+{
+  "Title": "从前"
+}
+
+###
